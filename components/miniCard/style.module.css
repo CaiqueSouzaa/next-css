@@ -1,0 +1,28 @@
+#bodyCard {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 400px;
+    padding: 10px;
+
+    background-color: #22223B;
+    border-radius: 10px;
+}
+
+.cardName {
+    color: #C9ADA7;
+
+}
+
+.cardLink {
+    color: #C9ADA7;
+}
+
+.cardDescription {
+    border-top: #4A4E69 solid 2px;
+    color: #F2E9E4;
+}
